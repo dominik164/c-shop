@@ -1,0 +1,7 @@
+mop 34 46564
+lody 2.46 46
+baton 2.45 45
+krzeslo 4.45 2323
+stol 300 35
+mop 3.54 35
+rower 4.35 343
